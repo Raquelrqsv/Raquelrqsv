@@ -1,16 +1,13 @@
-## Hi there 👋
+Hello, World!!
+I'm a Full Stack Developer passionate about building scalable and high-performance applications. With experience in frontend and backend, I create efficient, maintainable, and user-friendly solutions.
 
-<!--
-**Raquelrqsv/Raquelrqsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack:
+Frontend: Angular, HTML, CSS, JavaScript
+Backend: Node.js, PHP, NestJS
+Databases: SQL (MySQL/PostgreSQL), MongoDB
+💡 About Me:
+I love solving complex problems with clean and efficient code.
+Always learning and improving my skills.
+Passionate about software architecture, API development, and frontend performance.
+📫 Let's Connect!
+Feel free to reach out for collaborations or just to chat about tech! 
